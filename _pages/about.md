@@ -11,4 +11,4 @@ I'm a student from [Hangzhou Normal University](https://www.hznu.edu.cn/). My re
 
 
 
-[Email](2023111011032@stu.hznu.edu.cn) / [Github](https://github.com/lingtaochen1999)
+[Email:2023111011032@stu.hznu.edu.cn](2023111011032@stu.hznu.edu.cn) / [Github](https://github.com/lingtaochen1999)
