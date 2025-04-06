@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student from [Hangzhou Normal Unversity](https://www.hznu.edu.cn/). My research interest includes computer vision, computer graphics, Cyberspace Security.
+I'm a student from [Hangzhou Normal Unversity](https://www.hznu.edu.cn/). My research interest includes computer vision, computer graphics, Cyberspace Security.
 
 
 
