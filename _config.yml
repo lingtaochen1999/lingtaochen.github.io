@@ -13,7 +13,7 @@ title                    : "Lingtao Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Lingtao Chen"
 description              : &description "a student from Hangzhou Normal University"
-url                      : https://lingtaochen1999.github.io # the base hostname & protocol for your site e.g. "https://lingtaochen1999.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g.  "https://lingtaochen1999.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
